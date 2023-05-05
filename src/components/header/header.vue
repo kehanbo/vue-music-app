@@ -1,5 +1,8 @@
 <template>
-  <div class="header">dfsdfsad</div>
+  <div class="header">
+    <span class="icon"></span>
+    <h1 class="text">KKmusic</h1>
+  </div>
 </template>
 <script>
 export default {
